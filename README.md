@@ -1,6 +1,6 @@
 # Essentials
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2. Developed with node.js version: v20.15.0
 
 ## Development server
 
